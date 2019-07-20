@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544375350632.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4F72594C",
+    "lastKnownWriteTime" : 1547818460,
+    "last_content_update" : 1547818460400,
+    "path" : "~/R/AquaC/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "132,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

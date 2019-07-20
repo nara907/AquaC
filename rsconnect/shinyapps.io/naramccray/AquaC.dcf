@@ -1,0 +1,13 @@
+name: AquaC
+title: AquaC
+username:
+account: naramccray
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 580698
+bundleId: 1822135
+url: https://naramccray.shinyapps.io/AquaC/
+when: 1547818765.86077
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: aquaC_data.txt|AquaDATA.xlsx|Atlantic-cmyk.png|BUY_other.csv|data dictionary.xlsx|DataWrangleSave.R|license.txt|MA.dbf|MA.prj|MA.qpj|MA.shp|MA.shx|NE.dbf|NE.prj|NE.qpj|NE.shp|NE.shx|rando.R|RESTAURANT_other.csv|SE.dbf|SE.prj|SE.qpj|SE.shp|SE.shx|wrangle.R

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542543065952.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "110B27C2",
+    "lastKnownWriteTime" : 1544398814,
+    "last_content_update" : 1544398814700,
+    "path" : "~/R/AquaC/rando.R",
+    "project_path" : "rando.R",
+    "properties" : {
+        "cursorPosition" : "49,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

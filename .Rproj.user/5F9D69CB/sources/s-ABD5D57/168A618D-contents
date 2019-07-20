@@ -1,0 +1,79 @@
+input[type="number"] {
+  max-width: 80%;
+}
+
+div.outer {
+  position: fixed;
+  top: 41px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+/* Customize fonts */
+  body, label, input, button, select { 
+    font-family: 'Calibri', Calibri;
+    font-weight: 520;
+    background-color: #E4F7EE;
+  }
+h1, h2, h3, h4 { font-weight: 400; }
+
+#controls {
+/* Appearance */
+  background-color: white;
+padding: 0 20px 20px 20px;
+cursor: move;
+/* Fade out while not hovering */
+  opacity: 0.65;
+zoom: 0.9;
+transition: opacity 500ms 1s;
+}
+#headT {
+padding: 30px 0px 0px 0px;
+}
+#controlsM1 {
+/* Appearance */
+  background-color: white;
+padding: 0 20px 20px 20px;
+cursor: move;
+/* Fade out while not hovering */
+  opacity: 0.65;
+zoom: 0.9;
+transition: opacity 500ms 1s;
+}
+#Descriptt {
+/* Appearance */
+  background-color: #CAF7E2;
+
+}
+#controls:hover {
+/* Fade in while hovering */
+  opacity: 0.95;
+transition-delay: 0;
+}
+
+/* Position and style citation */
+  #cite {
+  position: absolute;
+bottom: 10px;
+left: 10px;
+font-size: 12px;
+}
+/* Position and style citation */
+  #cite2 {
+  position: absolute;
+top: 0px;
+left: 10px;
+font-size: 12px;
+}
+  #cite3 {
+  position: absolute;
+bottom: 0px;
+font-size: 12px;
+}
+/* If not using map tiles, show a white background */
+  .leaflet-container {
+    background-color: white !important;
+  }
